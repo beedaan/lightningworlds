@@ -1,0 +1,20 @@
+body {
+  padding-top: 10em;
+  background: transparent;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.full {
+	background: url("../img/bcc-beach.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.jumbotron {
+	background: rgba(238,238,238,0.8);
+}
