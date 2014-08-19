@@ -1,3 +1,8 @@
+@font-face {
+	font-family: prototype;
+	src: url(../fonts/prototype/Prototype.ttf);
+}
+
 body {
   padding-top: 10em;
   background: transparent;
@@ -17,4 +22,19 @@ body {
 
 .jumbotron {
 	background: rgba(238,238,238,0.8);
+}
+
+#logo {
+	display: block;
+	margin: 0 auto;
+}
+
+.title {
+	color: #1d4a9f;
+	text-align: center;
+	font-family: prototype;
+}
+
+span.glyphicon {
+	font-size: 7em;
 }
