@@ -1,34 +1,21 @@
 body {
-  padding-top: 10em;
-  background: transparent;
+  position: relative;
+  padding-top: 60px;
 }
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
-}
-
-
-.jumbotron {
-	background: rgba(238,238,238,0.8);
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
 }
 
-#logo {
-	display: block;
-	margin: 0 auto;
+.container {
+  max-width: 35em; 
 }
 
-.title {
-	text-align: center;
+button {
+  font-family: "Titillium Web", Helvetica, Arial, sans-serif; 
 }
 
-span.glyphicon {
-	font-size: 7em;
-}
-
-.blue {
-	color: #1d4a9f;
-}
-
-.red {
-	color: #da2127;
+.navbar {
+ font-family: "Titillium Web", Helvetica, Arial, sans-serif; 
 }
