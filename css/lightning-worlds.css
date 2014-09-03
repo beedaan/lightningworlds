@@ -1,6 +1,6 @@
 body {
   position: relative;
-  padding-top: 60px;
+  padding-top: 40px;
 }
 @media (max-width: 979px) {
   body {
@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  max-width: 35em; 
+  max-width: 38em; 
 }
 
 button {
@@ -22,4 +22,18 @@ button {
 
 .main {
   margin-bottom: 300px;
+}
+
+.jumbotron {
+	background-image: url("../img/youth-downwind.jpg");
+	background-position: 50% 37%;
+	background-size: 1900px;
+}
+
+#worlds-header {
+	margin-top: 0px;
+}
+
+.page-header {
+	margin-top: 0px;
 }
