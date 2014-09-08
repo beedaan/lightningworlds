@@ -8,32 +8,6 @@ body {
   }
 }
 
-.container {
-  max-width: 38em; 
-}
-
-button {
-  font-family: "Titillium Web", Helvetica, Arial, sans-serif; 
-}
-
-.navbar {
- font-family: "Titillium Web", Helvetica, Arial, sans-serif; 
-}
-
-.main {
-  margin-bottom: 300px;
-}
-
-.jumbotron {
-	background-image: url("../img/youth-downwind.jpg");
-	background-position: 50% 37%;
-	background-size: 1900px;
-}
-
-#worlds-header {
-	margin-top: 0px;
-}
-
-.page-header {
-	margin-top: 0px;
+#map {
+  border-radius: 50%;
 }
