@@ -11,3 +11,67 @@ body {
 #map {
   border-radius: 50%;
 }
+
+#welcome-jumbo{
+	background-image: url(../img/youth-downwind-lg.jpg);
+	background-position: center;
+	background-size: 100%;
+}
+
+#notice-jumbo{
+	background-image: url(../img/upwind-lg.jpg);
+	background-position: 50% 28%;
+	background-size: 100%;
+}
+
+#amenity-jumbo {
+	background-image: url(../img/beach-lg.jpg);
+	background-position: 50% 43%;
+	background-size: 100%;
+}
+
+.page-header {
+	border-bottom: 0px;
+}
+
+.jumbotron {
+    text-shadow: 0px 2px 8px #fff;
+    font-family: "Titillium Web";
+}
+
+.jumbotron small{
+	color: #082964;
+	font-weight: 600;
+}
+
+.jumbotron p {
+	font-weight: 600;
+}
+
+.subtitle {
+	color: #082964;
+	font-weight: 600;
+}
+
+#bcc {
+	background-image: url(../img/clubhouse-lg.jpg);
+	background-position: 30% 20%;
+	background-size: 100%;
+    text-shadow: 0px 0px 4px #fff;
+}
+
+#ilca {
+	background-image: url(../img/start-lg.jpg);
+	background-position: 30% 60%;
+	background-size: 100%;
+    text-shadow: 0px 0px 4px #fff;
+}
+
+h1 {
+	font-weight: 600;
+}
+
+h2 {
+    font-family: "Titillium Web";
+    font-weight: 600;
+}
