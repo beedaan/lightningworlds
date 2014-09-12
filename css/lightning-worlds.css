@@ -30,6 +30,12 @@ body {
 	background-size: 100%;
 }
 
+#history-jumbo {
+	background-image: url(../img/upwind-fleet.jpg);
+	background-position: 50% 65%;
+	background-size: 100%;
+}
+
 .page-header {
 	border-bottom: 0px;
 }
@@ -79,4 +85,10 @@ h2 {
 /*Temp until there is more content*/
 #fields {
 	padding-bottom: 13em;
+}
+#former-champs {
+	padding-bottom: 30em;
+}
+#news-weather {
+	padding-bottom: 5em;
 }
