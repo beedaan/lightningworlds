@@ -4,7 +4,7 @@ body {
 }
 @media (max-width: 979px) {
   body {
-    padding-top: 0px;
+    padding-top: 50px;
   }
 }
 
@@ -14,26 +14,30 @@ body {
 
 #welcome-jumbo{
 	background-image: url(../img/youth-downwind-lg.jpg);
-	background-position: center;
-	background-size: 100%;
+	background-position: 50% 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #notice-jumbo{
 	background-image: url(../img/upwind-lg.jpg);
 	background-position: 50% 28%;
-	background-size: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #amenity-jumbo {
 	background-image: url(../img/beach-lg.jpg);
 	background-position: 50% 43%;
-	background-size: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #history-jumbo {
 	background-image: url(../img/upwind-fleet.jpg);
 	background-position: 50% 65%;
-	background-size: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .page-header {
@@ -82,12 +86,13 @@ h2 {
     font-weight: 600;
 }
 
+#coming-soon {
+	padding-top: 30px;
+}
+
 /*Temp until there is more content*/
 #fields {
 	padding-bottom: 13em;
-}
-#former-champs {
-	padding-bottom: 30em;
 }
 #news-weather {
 	padding-bottom: 5em;
