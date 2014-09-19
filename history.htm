@@ -56,10 +56,9 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.htm">Welcome</a></li>
-            <li><a href="notice.htm">Notice of Race</a></li>
+            <li><a href="notice.htm">Logistics / Notice of Race</a></li>
             <li><a href="amenity.htm">Amenities</a></li>
             <li class="active"><a href="history.htm">History</a></li>
-            <li><a href="logistics.htm">Logistics</a></li>
             <li><a href="media.htm">Media</a></li>
             <li><a href="entries.htm">Entries</a></li>
             <li><a href="sponsor.htm">Sponsorship</a></li>
@@ -71,8 +70,17 @@
     <div class="container-fluid">
       <div class="jumbotron" id="history-jumbo">
         <div class="container">
-          <h1>History</h1>
-          <p class="subtitle">The Lightning World Championship dates back to 1961 and has always been contest of the world's best sailors.</p>
+          <div class="row">
+            
+            <div class="col-xs-2 hidden-xs">
+                <img class="small-logo" src="img/logo_notext_sm.png">
+            </div>
+
+            <div class="col-xs-10">
+              <h1>History</h1>
+              <p class="subtitle">The Lightning World Championship dates back to 1961 and has always been contest of the world's best sailors.</p>
+            </div>
+          </div>
         </div>
       </div><!-- /.jumbotron -->
     </div><!-- /.contianer -->
@@ -83,15 +91,21 @@
           <div class="row">
             <a href="http://www.lightningclass.org/resources/historyLightning/champions/worldmastersChampions.asp">
               <div class="col-md-5">
-                <div class="thumbnail text-center" id="master-champs">
-                  <h2>Master Champions</h2>
+                <div class="thumbnail" id="master-champs">
+                  <img src="img/master-1200.jpg">
+                  <div class="caption text-center">
+                    <h2>Master Champions</h2>
+                  </div>
                 </div>
               </div>
             </a>
             <a href="http://www.lightningclass.org/resources/historyLightning/champions/worldChampions.asp">
               <div class="col-md-5 col-md-offset-1">
-                <div class="thumbnail text-center" id="world-champs">
-                  <h2>World Champions</h2>
+                <div class="thumbnail" id="world-champs">
+                  <img src="img/starck-1200.png">
+                  <div class="caption text-center">
+                    <h2>World Champions</h2>
+                  </div>
                 </div>
               </div>
             </a>
@@ -100,7 +114,7 @@
     </div>
 
 
-    <nav class="navbar navbar-default navbar-fixed-bottom">
+    <nav class="navbar navbar-default navbar-static-bottom">
       <div class="container">
         <p class="navbar-text navbar-right">Built by <a href="http://bheussler.name" class="navbar-link">Brendan</a></p>
       </div>
