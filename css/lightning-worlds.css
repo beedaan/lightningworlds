@@ -94,10 +94,17 @@ h2 {
 	margin-top: 10px;
 }
 
+.small-logo {
+	padding-top: 30px;
+}
+
 /*Temp until there is more content*/
-#fields {
-	padding-bottom: 13em;
+#trips {
+	padding-bottom: 6em;
 }
 #news-weather {
 	padding-bottom: 5em;
+}
+#former-champs {
+	padding-bottom: 7em;
 }
