@@ -40,6 +40,13 @@ body {
 	background-repeat: no-repeat;
 }
 
+#entries-jumbo {
+	background-image: url(../img/team-21.jpg);
+	background-position: 50% 65%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
 .page-header {
 	border-bottom: 0px;
 }
