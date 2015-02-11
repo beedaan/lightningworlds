@@ -109,16 +109,6 @@ h2 {
 	padding-bottom: 10px;
 }
 
-/*Temp until there is more content*/
-#trips {
-	padding-bottom: 6em;
-}
-#news-weather {
-	padding-bottom: 5em;
-}
-#former-champs {
-	padding-bottom: 7em;
-}
-#registration {
-	padding-bottom: 7em;
+#footer {
+	margin-top:	8em;
 }
