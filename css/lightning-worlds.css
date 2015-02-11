@@ -105,6 +105,10 @@ h2 {
 	padding-top: 30px;
 }
 
+.padding_bottom_small {
+	padding-bottom: 10px;
+}
+
 /*Temp until there is more content*/
 #trips {
 	padding-bottom: 6em;
@@ -115,6 +119,6 @@ h2 {
 #former-champs {
 	padding-bottom: 7em;
 }
-#confirmation {
-	padding-bottom: 15em;
+#registration {
+	padding-bottom: 7em;
 }
