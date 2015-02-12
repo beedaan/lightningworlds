@@ -47,6 +47,13 @@ body {
 	background-repeat: no-repeat;
 }
 
+#media-jumbo {
+	background-image: url(../img/chaos.jpg);
+	background-position: 50% 65%;
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+
 .page-header {
 	border-bottom: 0px;
 }
@@ -105,16 +112,10 @@ h2 {
 	padding-top: 30px;
 }
 
-/*Temp until there is more content*/
-#trips {
-	padding-bottom: 6em;
+.padding_bottom_small {
+	padding-bottom: 10px;
 }
-#news-weather {
-	padding-bottom: 5em;
-}
-#former-champs {
-	padding-bottom: 7em;
-}
-#confirmation {
-	padding-bottom: 15em;
+
+#footer {
+	margin-top:	8em;
 }
