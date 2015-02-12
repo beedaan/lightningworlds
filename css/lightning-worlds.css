@@ -47,6 +47,13 @@ body {
 	background-repeat: no-repeat;
 }
 
+#media-jumbo {
+	background-image: url(../img/chaos.jpg);
+	background-position: 50% 65%;
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+
 .page-header {
 	border-bottom: 0px;
 }
