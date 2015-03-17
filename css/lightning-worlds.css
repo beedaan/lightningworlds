@@ -54,6 +54,13 @@ body {
 	background-repeat: no-repeat;	
 }
 
+#sponsor-jumbo {
+	background-image: url(../img/stpete.jpg);
+	background-position: 50% 55%;
+	background-size: cover;
+	background-repeat: no-repeat;		
+}
+
 .page-header {
 	border-bottom: 0px;
 }
@@ -100,12 +107,12 @@ h2 {
     font-weight: 600;
 }
 
-.fa {
-	color: #333;
+#crsa {
+	margin-top: 20px;
 }
 
-#coming-soon {
-	padding-top: 30px;
+.fa {
+	color: #333;
 }
 
 .nor-btn{
