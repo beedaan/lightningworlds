@@ -108,7 +108,15 @@ h2 {
 }
 
 #crsa {
-	margin-top: 20px;
+	margin-top: 50px;
+}
+
+.sponsor {
+	margin-top: 50px;
+}
+
+.sponsor-image {
+	margin-bottom: 20px;
 }
 
 .fa {
