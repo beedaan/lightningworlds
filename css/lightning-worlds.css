@@ -107,6 +107,18 @@ h2 {
     font-weight: 600;
 }
 
+#sponsor-column img {
+	margin-bottom: 30px;
+}
+
+#sponsor-column .visible-xs-block img {
+	margin-top: 30px; 
+}
+
+#sponsor-column h4 {
+	margin-top: 30px;
+}
+
 .sponsor {
 	margin-top: 50px;
 }
