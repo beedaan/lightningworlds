@@ -143,6 +143,11 @@ h2 {
 	padding-bottom: 10px;
 }
 
+.inline-button {
+	display: inline-block;
+	margin-left: 15px;
+}
+
 #footer {
 	margin-top:	10em;
 }
