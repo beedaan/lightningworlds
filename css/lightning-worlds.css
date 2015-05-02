@@ -127,6 +127,11 @@ h2 {
 	margin-bottom: 20px;
 }
 
+.sponsor-image img {
+	max-height: 118px;
+	margin: 0 auto;
+}
+
 .fa {
 	color: #333;
 }
@@ -146,6 +151,11 @@ h2 {
 .inline-button {
 	display: inline-block;
 	margin-left: 15px;
+}
+
+.hidden_logos img {
+	max-height: 175px;
+	margin: 0 auto;
 }
 
 #footer {
