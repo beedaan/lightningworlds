@@ -1,3 +1,4 @@
 *.htm~
 *.css~
 *.js~
+.idea/*
