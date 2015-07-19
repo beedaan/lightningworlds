@@ -185,4 +185,9 @@ h2 {
     color: inherit;
 }
 
+.results-btn {
+    margin: 20px 10px 0;
+    text-shadow: none;
+}
+
 
