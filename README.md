@@ -1,4 +1,4 @@
-# [lightningworlds](http://lightningworlds.com)
+# [lightningworlds](http://beedaan.github.io/lightningworlds/)
 Website for the Lightning Worlds '15
 
 ## License
